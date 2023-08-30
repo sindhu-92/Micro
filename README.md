@@ -1,2 +1,2 @@
 # Micro
-for practice
+Git command  practice
